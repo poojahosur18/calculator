@@ -1,4 +1,3 @@
-package calculator;
 
 public class DivisionOperation {
     public static void main(String[] args) {
